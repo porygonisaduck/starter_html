@@ -1,0 +1,35 @@
+body {
+    background-color: #56d582;
+    color: #000000;
+}
+
+h1 {
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: #015048;
+}
+
+h2, h3{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #4f0981;
+}
+
+p {
+    line-height: 25px;
+}
+
+img {
+    border-width: 5px;
+    border-style: solid;
+    border-color: #015048;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+}
+
+li {
+    display: inline-block;
+    margin-left: 50px;
+}
